@@ -54,20 +54,6 @@ The primary goal of this project is to:
 
 ---
 
-## 📎 Folder Structure
-Global-Hunger-Index-2024-Data-Visualization-Insights-with-R/
-│
-├── outputs/ # Output visuals
-├── 2024.xlsx # GHI dataset (2024)
-├── 01_plot_South_Asia_map.R # Code to generate GHI map
-├── Trendline.R # Code to create trendline plot
-├── south_asia_ghi_map.png # Sample output image
-├── ne_10m_admin_0_countries.zip # Shapefiles used for mapping
-├── Global-Hunger-Index-2024-...pdf # Brief writeup or summary
-└── README.md # This file
-
-
----
 
 ## 👩‍💻 Author
 
